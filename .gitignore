@@ -1,6 +1,22 @@
+
+.ipynb_checkpoints/
+# Ignore virtual environment
 .venv/
+venv/
+env/
+
+# Byte-compiled files
 __pycache__/
 *.pyc
+
+# Data folders
 data_raw/
 data_processed/
-.ipynb_checkpoints/
+
+# Reports (if large)
+reports/*.png
+reports/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
