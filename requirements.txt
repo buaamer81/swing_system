@@ -4,3 +4,5 @@ yfinance
 matplotlib
 ta
 jupyter
+streamlit
+mplfinance
